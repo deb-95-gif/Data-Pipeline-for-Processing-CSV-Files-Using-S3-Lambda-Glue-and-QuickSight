@@ -1,0 +1,12 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "https://aws-raw-final2-bucket.s3.us-east-1.amazonaws.com/run-1774885685153-part-r-00000.csv"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "textqualifier": "\""
+  }
+}
